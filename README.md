@@ -11,7 +11,7 @@ Clone the repository in your sandbox folder
 
     git clone https://github.com/saskiamou/SJC-CS
 
-Enter the folder it creates. Replace SJC-CS:
+Enter the folder it creates
 
     cd SJC-CS
 
