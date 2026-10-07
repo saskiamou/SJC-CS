@@ -1,7 +1,7 @@
 # SJC-CS-Group-Repo
 COMPUTER SCIENCE CLUB: OUR FIRST SHARED PYTHON PROJECT
 
-# OUR GOAL
+## OUR GOAL
 Each pair adds a small Python program to one shared GitHub project.
 We review one another's work and combine our contributions.
 
