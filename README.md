@@ -63,10 +63,10 @@ Fix any problems in nano, save, and run it again.
 
 7. CHECK AND SELECT YOUR CHANGES
 
-    git status
-    git diff
-    git add [your-name].py
-    git diff --staged
+    - git status
+    - git diff
+    - git add [your-name].py
+    - git diff --staged
 
 Status lists changed files.
 Diff shows edits to files Git already tracks.
