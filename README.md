@@ -7,7 +7,7 @@ We review one another's work and combine our contributions.
 
 ## 1. CLONE OUR PROJECT
 
-Replace CLUB-REPOSITORY-ADDRESS with the address from your organizer:
+Clone the repository in your sandbox folder
 
     git clone https://github.com/saskiamou/SJC-CS
 
